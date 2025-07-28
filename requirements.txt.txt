@@ -1,9 +1,0 @@
-pandas
-numpy
-scipy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-yfinance
-optuna
