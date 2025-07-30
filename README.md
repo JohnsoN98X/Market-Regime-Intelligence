@@ -54,3 +54,10 @@ Final output includes:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and research purposes only.  
+The code, models, and outputs are provided "as is", without warranty of any kind.  
+**Use of this codebase for financial decision-making is at your own risk.**  
+The author assumes no responsibility for any outcomes resulting from its use.
