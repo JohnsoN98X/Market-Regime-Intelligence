@@ -4,16 +4,16 @@ This project focuses on identifying, analyzing, and forecasting **market regimes
 
 ## 📁 Project Structure
 
-- **01_market_regimes_kmeans.ipynb**  
+- **01_Regime_Classification**  
   Identification of market regimes using the KMeans algorithm, followed by statistical analysis and characterization of each regime. Also includes PCA-based dimensionality reduction and visualization.
 
-- **02_anomaly_detection.ipynb**  
+- **02_Anomaly_Detection**  
   Global and local anomaly detection using Isolation Forest and LOF, applied both to the full dataset and within each market regime cluster.
 
-- **03_markov_chain_modeling.ipynb**  
+- **03_Markov_Chain.ipynb**  
   Modeling regime transitions using a discrete-time Markov chain. Includes transition matrix estimation, stationary distribution, multi-step transition probabilities, expected duration in each regime, and more.
 
-- **04_xgb_forecasting.ipynb**  
+- **04_XGBC_Regime_Prediction.ipynb**  
   Training an XGBoost classifier (XGBC) to forecast market regimes. Hyperparameters are tuned using Optuna for efficient search.
 
 ## 🧪 Libraries Used
